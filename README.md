@@ -5,7 +5,7 @@ It includes ARP, DNS, TCP/UDP client-server models, and socket communication pro
 
 ---
 
-## 📂 Included Programs
+# 📂 Included Programs
 
 ### 🧭 ARP Simulation
 
@@ -36,16 +36,12 @@ It includes ARP, DNS, TCP/UDP client-server models, and socket communication pro
 - 📄 "EX 6.docx" – Lab experiment record/document
 
 ---
-
 ## ⚙️ Requirements
-
-- 🐍 Python 3.x
-- 📦 Built-in libraries only ("socket", "datetime", etc.)
-- 💻 Works on Windows / Linux / macOS
-
-### Check version:
-
-python --version
+🐍 Python 3.x
+💻 VS Code (recommended)
+▶️ VS Code Code Runner Extension
+📦 Python built-in modules (socket, datetime, etc.)
+🖧 Local network / localhost for client-server program
 
 ---
 
