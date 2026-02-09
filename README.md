@@ -37,11 +37,11 @@ It includes ARP, DNS, TCP/UDP client-server models, and socket communication pro
 
 ---
 ## ⚙️ Requirements
-🐍 Python 3.x
-💻 VS Code (recommended)
-▶️ VS Code Code Runner Extension
-📦 Python built-in modules (socket, datetime, etc.)
-🖧 Local network / localhost for client-server program
+- 🐍 Python 3.x
+- 💻 VS Code (recommended)
+- ▶️ VS Code Code Runner Extension
+- 📦 Python built-in modules (socket, datetime, etc.)
+- 🖧 Local network / localhost for client-server program
 
 ---
 
