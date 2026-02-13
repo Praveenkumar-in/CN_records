@@ -90,6 +90,5 @@ Praveen Kumar
 
 ---
 
-## ⭐ Tip
-
-Feel free to fork, modify, and extend these programs for deeper networking experiments.
+## License
+This project is licensed under the MIT License © 2026 Praveen Kumar
